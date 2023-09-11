@@ -9,5 +9,5 @@ Program na učení odpovědí k otázkám ze sítí a programování k maturitě
   5. Zadej příkaz "npm start"
   6. Hodně štěstí!
 
-### Verze aplikace s nodemodules:
+### Verze aplikace s node_modules:
 https://drive.google.com/drive/folders/1JQJO3R8HRwm2f9MI-oXr7arkP62oBiPp
