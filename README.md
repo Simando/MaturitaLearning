@@ -1,5 +1,5 @@
-# Maturita Learning
-Program na učení odpovědí k otázkám ze sítí a programování k maturitě
+# SPSMB Maturita Learning
+Program na učení odpovědí k otázkám ze sítí a programování k maturitě na SPŠMB
 
 ## Stažení a spuštění
   1. Stáhni složku MaturitaLearning
