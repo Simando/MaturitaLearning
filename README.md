@@ -1,6 +1,11 @@
 # SPSMB Maturita Learning
 Program na učení odpovědí k otázkám ze sítí a programování k maturitě na SPŠMB
 
+Je to program založený na bázi učení se z kartiček.
+Otázka je z jedné strany kartičky, dotyčný si pro sebe řekne odpověď,
+a pak se podívá na druhou stranu kartičky, jestli odpověděl správně.
+To je asi všechno co tu zatím je.
+
 ## Stažení a spuštění
   1. Stáhni složku MaturitaLearning
   2. Extrahuj jí ze .zip formátu
